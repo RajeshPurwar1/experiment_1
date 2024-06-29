@@ -1,2 +1,2 @@
 # experiment_1
-Author - Rajesh Purwar
+Author - Rajesh (Yashu) Purwar (DS)
